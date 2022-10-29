@@ -1,0 +1,12 @@
+.app {
+  margin: 0 auto;
+  max-width: 1000px;
+}
+
+.false_valid {
+  color: red;
+}
+
+.true__valid {
+  color: green;
+}
